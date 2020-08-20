@@ -1,0 +1,109 @@
+.cont-standard{
+    padding:0;
+    margin:0;
+    top:0;
+    left:0;
+    color: white;
+}
+
+.row-standard{
+    padding:0;
+    margin:0;
+    top:0;
+    left:0;
+}
+
+.col-standard{
+    padding:0;
+    margin:0;
+    top:0;
+    left:0;
+}
+
+.p-highlight{
+    color: #90a1d8;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.btn-standard {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 20px;
+    border: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    background-color: #535cbd;
+    color: white;
+    margin-top: 20px;
+}
+
+.section{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    padding-left: 30px;
+    margin: 0px;
+}
+
+.subheading{
+    color: #90a1d8;
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+
+.companylogobig{
+    margin-top: -150px;
+    height: 80px;
+    width: 80px;
+    margin-bottom: 16px;
+    padding-right: 30px;
+}
+
+.position{
+    margin: 0px;
+    padding-left: 30px;
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+}
+
+.fade-in {
+    animation: fadeIn ease 2s;
+    -webkit-animation: fadeIn ease 2s;
+    -moz-animation: fadeIn ease 2s;
+    -o-animation: fadeIn ease 2s;
+    -ms-animation: fadeIn ease 2s;
+    }
+    @keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-o-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }

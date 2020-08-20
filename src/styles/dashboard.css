@@ -1,0 +1,275 @@
+.dashboard{
+    background-color: #303238;
+    width: 850px;
+    height: 550px;
+    position: relative;
+    border-radius: 20px;
+    margin-left: 15px;
+}
+
+.text{
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+}
+
+.header{
+    color: white;
+    font-size: 30px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    padding-left: 30px;
+}
+
+.p-body{
+    color: #c2c2c4;
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 20px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+.name{
+    font-weight: 600;
+    color: #90a1d8;
+}
+
+.cardone{
+    height: 170px;
+    width: 253.33px;
+    background-color: #4a4c51;
+    border-radius: 10px;
+    margin-left: 30px;
+    border: none;
+    margin-right: 15px;
+    margin-bottom: 30px;
+    text-align: start;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    padding-left: 15px;
+    padding-top: 35px;
+}
+
+.cardtwo{
+    height: 170px;
+    width: 253.33px;
+    background-color: #4a4c51;
+    border-radius: 10px;
+    border: none;
+    margin-right: 15px;
+    margin-bottom: 30px;
+    text-align: start;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    padding-left: 15px;
+    padding-top: 35px;
+}
+
+.cardthree{
+    height: 170px;
+    width: 253.33px;
+    background-color: #4a4c51;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 30px;
+    text-align: start;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    padding-left: 15px;
+    padding-top: 35px;
+}
+
+
+.techheader{
+    font-size: 30px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    color: white;
+    padding-left: 30px;
+    padding-bottom: 5px;
+    margin-bottom: 0px;
+}
+
+.company{
+    color: #90a1d8;
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    text-align: start;
+    padding-bottom: 10px;
+}
+
+.label{
+    text-align: end;
+}
+
+.companylogo {
+    height: 50px;
+    width: 50px;
+    padding-right: 9px;
+    margin-top: -10px
+}
+
+.dotblue{
+    color: #3572A5;
+    font-size: 20px;
+}
+
+.dotyellow{
+    color: #f2e05b;
+    font-size: 20px;
+}
+
+.dotorange{
+    color: #ffac45;
+    font-size: 20px;
+}
+
+.dotgreen{
+    color: #178600;
+    font-size: 20px;
+}
+
+.logo {
+    text-align: end;
+
+}
+
+.companyheader{
+    margin-bottom: 0px;
+}
+
+.company{
+    margin-top: -30px;
+}
+
+.video{
+    border-radius: 10px;
+    margin-right: 30px;
+}
+
+.center{
+    text-align: right;
+}
+
+.companypurpleheading{
+    margin-top: -240px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
+
+.description {
+    color: #c2c2c4;
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    width: 400px;
+    margin-top: -220px;
+    text-align: start;
+    padding-left: 30px;
+}
+
+.description2 {
+    color: #c2c2c4;
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    width: 400px;
+    text-align: start;
+    padding-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.boldtext{
+    font-weight: 600;
+}
+
+.description3 {
+    color: #c2c2c4;
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    width: 400px;
+    text-align: start;
+    padding-left: 30px;
+    margin-top: 0px;
+}
+
+.bullets {
+    padding-top: 5px;
+}
+
+.description4{
+    color: #c2c2c4;
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    text-align: start;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.extralogo {
+    padding-top: 30px;
+}
+
+.wie1{
+    width: 253px;
+    margin-left: 30px;
+    margin-top: 15px;
+    border-radius: 10px;
+    margin-right: 15px;
+    height: 240px;
+}
+
+.wie2{
+    width: 253px;
+    margin-top: 15px;
+    border-radius: 10px;
+    margin-right: 15px;
+    height: 240px;
+
+}
+
+.name {
+    margin-bottom: 15px;
+}
+
+.extraspacing{
+    margin-bottom: 15px;
+}
+
+.instructions{
+    margin-bottom: 30px;
+    text-align: start;
+}
+
+.btn:not(:disabled):not(.disabled):active {
+    background-color: none;
+    outline: none
+}
+
+.btn:focus {
+    background-color: none;
+    outline: none
+
+}
+
+.btn:hover{
+    background-color: none;
+    outline: none
+
+}
