@@ -14,7 +14,7 @@ export class CurrentCode extends Component {
             <Row className = "row-standard">
             <NavLink to = "/work-experience/barnacle"><Button className = "cardone"><Row className = "row-standard company">BARNACLE SYSTEMS</Row>
             <Row className = "row-standard" >Software Engineering Intern</Row>
-            <Row className = "row-standard">Fall 2020 (Upcoming)</Row>
+            <Row className = "row-standard">Fall 2020</Row>
             <Row className = "row-standard"><span className = "dotyellow">&#x25CF;</span> Javascript</Row>
             <Row className = "row-standard label"><img className = "companylogo" src="images/barnaclelogo.png" alt=""></img></Row></Button></NavLink>
             <NavLink to = "/work-experience/dyne"><Button className = "cardtwo"><Row className = "row-standard company">DYNE TECHNOLOGIES</Row>

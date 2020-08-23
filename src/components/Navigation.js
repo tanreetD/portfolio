@@ -9,8 +9,20 @@ import Pdf from "../SoftwareResume.pdf";
 export class Navigation extends Component {
 
     onResumeClick() {
-        window.open(Pdf);
+        window.open("https://tanreetd.github.io/portfolio/static/media/SoftwareResume.ca8ec021.pdf");
       }
+
+    onGitClick() {
+        window.open("https://github.com/tanreetD");
+    }
+
+    onLinkedClick() {
+        window.open("https://www.linkedin.com/in/tanreet-dhaliwal/");
+    }
+
+    onEmailClick() {
+        window.open("mailto:tdhali@uwo.ca")
+    }
 
     render() {
         return (
@@ -29,9 +41,9 @@ export class Navigation extends Component {
                <Button onClick= {this.onResumeClick} className = "btn-standard">Download Resume</Button>
            </Row>
            <Row className = "row-standard">
-            <Button className = "btn-social"><img className = "social" src="images/git.png" alt=""></img></Button>
-            <Button className = "btn-social"><img className = "linked" src="images/linkedin.png" alt=""></img></Button>
-            <Button className = "btn-social"><img className = "email" src="images/email.png" alt=""></img></Button>
+            <Button onClick = {this.onGitClick}className = "btn-social"><img className = "social" src="images/git.png" alt=""></img></Button>
+            <Button onClick = {this.onLinkedClick} className = "btn-social"><img className = "linked" src="images/linkedin.png" alt=""></img></Button>
+            <Button onClick = {this.onEmailClick}  className = "btn-social"><img className = "email" src="images/email.png" alt=""></img></Button>
 
            </Row>
            </Col>

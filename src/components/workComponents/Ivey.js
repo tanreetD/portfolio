@@ -15,6 +15,7 @@ export class Ivey extends Component {
             <p className = "description4">&bull; Worked with a team of analysts under the supervision of Professor Michael King at Scotiabank Digital Banking Lab on Canada FinTech 150 project</p>
             <p className = "description4">&bull; Automated existing manual research processes by programming web scraping application using pandas library and Python to increase speed, efficiency and accuracy of data mining</p>
             <p className = "description4">&bull; Conducted research analyses of 150+ Fintech startups to establish a prediction model for success based on current industry and market trends</p>
+            <p className = "description4">&bull; Tools: Python, Pandas Library</p>
             </Col>
             </Container>
         )

@@ -19,14 +19,15 @@ export class Work extends Component {
             </video>
             </Col>
             <Col className = "col-standard bullets">
-            <p className = "description">&bull; Built a contactless dining platform consisting of a React JS and native iOS app in an agile development team</p>
+            <p className = "description">&bull; Built a contactless dining platform consisting of a React.js and native iOS app in an agile development team</p>
             <p className = "description2">&bull; Created responsive screens with modal views, animations and reusable components on web and mobile apps</p>
-            <p className = "description2">&bull; Optimized Firestore NoSQL database to reduce read operations by 35% to ensure efficient scaling</p>
+            <p className = "description2">&bull; Optimized Firestore NoSQL database to reduce read operations by 56% to ensure efficient scaling</p>
             <p className = "description2">&bull; Executed asynchronous data queries to retrieve live customer and corresponding orders from Firestore</p>
             <p className = "description2">&bull; Remodelled state architecture using react-redux from scratch to improve data flow between component hierarchy</p>
             <p className = "description2">&bull; Wrote cloud functions in Node.js to perform server-side logic to set up notification system between apps</p>
             <p className = "description2">&bull; iOS Features Worked On: QR Code Table Generator, Notification System, Multi-Dining Check In</p>
             <p className = "description2">&bull; Web App Features Worked On: Table Selection, Authentication, Order Flow, Order Status Indicator</p>
+            <p className = "description2">&bull; Tools: React.js, Javascript, Typescript, HTML, CSS, Bootstrap, Redux, Firestore, Swift, Node.js, Stripe API, Normalizr, Git</p>
             </Col>
             </Row>
             </Container>

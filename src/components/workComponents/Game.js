@@ -24,6 +24,7 @@ export class Game extends Component {
             <p className = "description2">&bull; Created start menu and character selection screens that render players with varying strengths and capabilities</p>
             <p className = "description2">&bull; Programmed entirety of level one and enemies that change direction based on position of players in level three</p>
             <p className = "description2">&bull; Coded a Pac-man style minigame with a randomized follow program for ghosts in the maze</p>
+            <p className = "description2">&bull; Tools: Unity, C#, Git</p>
             </Col>
             </Row>
             </Container>
