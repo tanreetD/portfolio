@@ -21,7 +21,7 @@ export class Navigation extends Component {
                <Sidebar></Sidebar>
            </Row>
            <Row className = "row-standard">
-               <Button type="submit" onclick="window.open('SoftwareResume.pdf')" className = "btn-standard">Download Resume</Button>
+               <Button type="submit" onClick="window.open('SoftwareResume.pdf')" className = "btn-standard">Download Resume</Button>
            </Row>
            <Row className = "row-standard">
             <Button className = "btn-social"><img className = "social" src="images/git.png" alt=""></img></Button>
