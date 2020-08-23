@@ -27,7 +27,7 @@ export class Work extends Component {
             <p className = "description2">&bull; Wrote cloud functions in Node.js to perform server-side logic to set up notification system between apps</p>
             <p className = "description4">&bull; iOS Features Worked On: QR Code Table Generator, Notification System, Multi-Dining Check In</p>
             <p className = "description4">&bull; Web App Features Worked On: Table Selection, Authentication, Order Flow, Order Status Indicator</p>
-            <p className = "description4">&bull; Tools: React.js, Javascript, Typescript, HTML, CSS, Bootstrap, Redux, Firestore, Swift, Node.js, Stripe API, Normalizr, Git</p>
+            <p className = "description4">&bull; Tools: React.js, Javascript, Typescript, HTML, CSS, Bootstrap, Redux, Firestore, Swift, CoreData, Node.js, Stripe API, Normalizr, Git</p>
             </Col>
             </Row>
             </Container>
@@ -36,10 +36,3 @@ export class Work extends Component {
 }
 
 export default Work
-
-/*<video controls width = "400">
-<source src="videos/dyne.mp4"
- type="video/mp4"></source>
- Sorry, your browser doesn't support embedded videos.
-</video>
-<img src = "images/dynelogo.png"></img>*/
