@@ -4,8 +4,13 @@ import '../styles/utilites.css';
 import {Container, Col, Row, Button} from 'react-bootstrap'
 import Profile from './navigationComponents/Profile'
 import Sidebar from './navigationComponents/Sidebar'
+import Pdf from "../SoftwareResume.pdf";
 
 export class Navigation extends Component {
+
+    onResumeClick() {
+        window.open(Pdf);
+      }
 
     render() {
         return (
@@ -21,7 +26,7 @@ export class Navigation extends Component {
                <Sidebar></Sidebar>
            </Row>
            <Row className = "row-standard">
-               <Button type="submit" onClick="window.open('SoftwareResume.pdf')" className = "btn-standard">Download Resume</Button>
+               <Button onClick= {this.onResumeClick} className = "btn-standard">Download Resume</Button>
            </Row>
            <Row className = "row-standard">
             <Button className = "btn-social"><img className = "social" src="images/git.png" alt=""></img></Button>
