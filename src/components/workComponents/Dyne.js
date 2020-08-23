@@ -25,9 +25,9 @@ export class Work extends Component {
             <p className = "description2">&bull; Executed asynchronous data queries to retrieve live customer and corresponding orders from Firestore</p>
             <p className = "description2">&bull; Remodelled state architecture using react-redux from scratch to improve data flow between component hierarchy</p>
             <p className = "description2">&bull; Wrote cloud functions in Node.js to perform server-side logic to set up notification system between apps</p>
-            <p className = "description2">&bull; iOS Features Worked On: QR Code Table Generator, Notification System, Multi-Dining Check In</p>
-            <p className = "description2">&bull; Web App Features Worked On: Table Selection, Authentication, Order Flow, Order Status Indicator</p>
-            <p className = "description2">&bull; Tools: React.js, Javascript, Typescript, HTML, CSS, Bootstrap, Redux, Firestore, Swift, Node.js, Stripe API, Normalizr, Git</p>
+            <p className = "description4">&bull; iOS Features Worked On: QR Code Table Generator, Notification System, Multi-Dining Check In</p>
+            <p className = "description4">&bull; Web App Features Worked On: Table Selection, Authentication, Order Flow, Order Status Indicator</p>
+            <p className = "description4">&bull; Tools: React.js, Javascript, Typescript, HTML, CSS, Bootstrap, Redux, Firestore, Swift, Node.js, Stripe API, Normalizr, Git</p>
             </Col>
             </Row>
             </Container>
