@@ -17,7 +17,7 @@ export class MobileApp extends Component {
             <p className = "description4">&bull; Inital launch planned with with Right to Play to reach over 80 schools in Ontario</p>
             <p className = "description4">&bull; Future plans to add social media posts feature across app audience</p>
             <p className = "description4">&bull; Tools: Swift, CoreData, CoreGraphics, CoreAnimation, Git, Firebase, Sketch</p>
-            <Row className = "row-standard"><img className = "wie1" src = "images/App1.png"></img><img className = "wie2" src = "images/App2.png"></img><img className = "wie2" src = "images/App3.png"></img></Row>
+            <Row className = "row-standard"><img className = "app1" src = "images/App1.png"></img><img className = "app2" src = "images/App2.png"></img><img className = "app2" src = "images/App3.png"></img></Row>
             </Col>
             
             </Container>
