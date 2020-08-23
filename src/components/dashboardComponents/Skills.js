@@ -13,13 +13,13 @@ export class Skills extends Component {
                 <Row>
                     <Col className = "body">
                     <p className = "pbody">&bull; React.js</p>
-                    <p className = "pbody">&bull; Javascript</p>
+                    <p className = "pbody">&bull; Angular.js</p>
+                    <p className = "pbody">&bull; Ionic</p>
+                    <p className = "pbody">&bull; Javascript/Typescript</p>
                     <p className = "pbody">&bull; HTML</p>
                     <p className = "pbody">&bull; CSS/Sass</p>
-                    <p className = "pbody">&bull; Typescript</p>
                     <p className = "pbody">&bull; Bootstrap</p>
                     <p className = "pbody">&bull; Redux</p>
-                    <p className = "pbody">&bull; jQuery</p>
                    </Col>
                    <Col className = "secondbody">
                     <p className = "pbody">&bull; Java</p>
@@ -38,7 +38,9 @@ export class Skills extends Component {
                     <p className = "pbody">&bull; Normalizr Library</p>
                     <p className = "pbody">&bull; Pandas Library</p>
                     <p className = "pbody">&bull; Git</p>
+                    <p className = "pbody">&bull; Jest</p>
                     <p className = "pbody">&bull; Stripe API</p>
+                    <p className = "pbody">&bull; ReactiveX API</p>
                    </Col>
                 </Row>
             </Container>

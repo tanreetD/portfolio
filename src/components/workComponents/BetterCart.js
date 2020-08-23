@@ -13,7 +13,8 @@ export class BetterCart extends Component {
             <Row className = "row-standard label"><img className = "companylogobig" src = "images/barnaclelogo.png"></img></Row>
             <Col className = "col-standard">
             <p className = "description4">&bull; Barnacle Systems provides boat security and monitoring products that are currently protecting recreational, industrial, and military vessels around the world </p>
-            <p className = "description4">&bull; Currently working on implementing new features on Barnacle Systems' mobile app BRNKL for production</p>
+            <p className = "description4">&bull; Currently working on implementing new features and improving BRNKL software applicaton used by clients</p>
+            <p className = "description4">&bull; Tools: Javascript, Node.js, Angular.js, Jest, Ionic, ReactiveX</p>
             </Col>
             </Container>
         )
