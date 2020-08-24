@@ -19,9 +19,9 @@ export class Robotics extends Component {
             <p className = "description4">&bull; Organized international outreach campaign with free STEM camps for 700 youth by partnering with Yamana Gold and conducted 5 service trips to India facilitating education in rural schools</p>
             <p className = "description4">&bull; Sole Canadian wnner of 2017 FRC Deans List Award (20 out of 138,000+) for technical expertise and advocacy for STEM education in community</p>
             <p className = "description4">&bull; Became an ambassador for FIRST Robotics Canada by speaking to corporate sponsors at Synnex Canada and Annual Golf Tournaments with 1000+ attendees</p>
-            <p className = "description4">Please click on the tabs to view booklets I designed that provide information my outreach campaigns and an interview on my award win.</p>
+            <p className = "description4">Please click on the tabs to view booklets I designed that provide information my outreach campaigns and an interview of my award.</p>
             <Row>
-            <Col className = "square subheading"><p className = "pheading">Local Camps</p><Col className = "secondsquare subheading"><p className = "pheading">International Work</p><Col className = "thirdsquare subheading"><p className = "pheading">Philanthropy</p><Col className = "fourthsquare subheading"><p className = "pheading">Deans List Interview</p></Col></Col></Col></Col>
+            <Col className = "square subheading"><Button><p className = "pheading">Local Camps</p></Button><Col className = "secondsquare subheading"><p className = "pheading">International Work</p><Col className = "thirdsquare subheading"><p className = "pheading">Philanthropy</p><Col className = "fourthsquare subheading"><p className = "pheading">Deans List Interview</p></Col></Col></Col></Col>
             </Row>
             </Col>
             </Container>
