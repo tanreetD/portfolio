@@ -15,8 +15,7 @@ export class Skills extends Component {
                     <p className = "pbody">&bull; React.js</p>
                     <p className = "pbody">&bull; Angular.js</p>
                     <p className = "pbody">&bull; Ionic</p>
-                    <p className = "pbody">&bull; Javascript</p>
-                    <p className = "pbody">&bull; Typescript</p>
+                    <p className = "pbody">&bull; Javascript/Typescript</p>
                     <p className = "pbody">&bull; HTML</p>
                     <p className = "pbody">&bull; CSS/Sass</p>
                     <p className = "pbody">&bull; Bootstrap</p>

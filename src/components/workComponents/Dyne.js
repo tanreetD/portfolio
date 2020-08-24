@@ -6,7 +6,7 @@ import '../../styles/utilites.css';
 export class Work extends Component {
     render() {
         return (
-            <Container className = "cont-standard dashboard">
+            <Container className = "fade-in cont-standard dashboard">
             <h3 className = "techheader companyheader">Dyne</h3>
             <p className = "position">Software Engineering Intern</p>
             <p className = "position">April 2020 to August 2020</p>

@@ -6,7 +6,7 @@ import '../../styles/utilites.css';
 export class Game extends Component {
     render() {
         return (
-            <Container className = "cont-standard dashboard">
+            <Container className = "fade-in cont-standard dashboard">
             <h3 className = "techheader companyheader">Fredryck's Frontier</h3>
             <p className = "position">Game Development Project</p>
             <p className = "position">January 2020 to March 2020</p>

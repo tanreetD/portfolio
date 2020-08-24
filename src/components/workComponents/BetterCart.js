@@ -6,7 +6,7 @@ import '../../styles/utilites.css';
 export class BetterCart extends Component {
     render() {
         return (
-            <Container className = "cont-standard dashboard">
+            <Container className = "fade-in cont-standard dashboard">
             <h3 className = "techheader companyheader">Barnacle Systems</h3>
             <p className = "position">Software Engineering Intern</p>
             <p className = "position">September 2020 to December 2020</p>

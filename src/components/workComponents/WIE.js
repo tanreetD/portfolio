@@ -6,7 +6,7 @@ import '../../styles/utilites.css';
 export class WIE extends Component {
     render() {
         return (
-            <Container className = "cont-standard dashboard">
+            <Container className = "fade-in cont-standard dashboard">
             <h3 className = "techheader companyheader">Women In Engineering</h3>
             <p className = "position">Outreach Executive</p>
             <p className = "position">Sept 2018 to Present</p>

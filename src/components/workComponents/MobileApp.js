@@ -6,7 +6,7 @@ import '../../styles/utilites.css';
 export class MobileApp extends Component {
     render() {
         return (
-            <Container className = "cont-standard dashboard">
+            <Container className = "fade-in cont-standard dashboard">
             <h3 className = "techheader companyheader">STEM Education Mobile App</h3>
             <p className = "position">Mobile Development Project</p>
             <p className = "position">Present</p>

@@ -6,7 +6,7 @@ import '../../styles/utilites.css';
 export class Ivey extends Component {
     render() {
         return (
-            <Container className = "cont-standard dashboard">
+            <Container className = "fade-in cont-standard dashboard">
             <h3 className = "techheader companyheader">Ivey Business School</h3>
             <p className = "position">Research Assistant</p>
             <p className = "position">May 2019 to June 2019</p>

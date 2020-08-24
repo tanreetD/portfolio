@@ -14,6 +14,7 @@ import Game from '../components/workComponents/Game'
 import WIE from '../components/workComponents/WIE'
 import MobileApp from '../components/workComponents/MobileApp'
 import Website from '../components/workComponents/Website'
+import Robotics from '../components/workComponents/Robotics'
 
 class Home extends Component {
     render() {
@@ -31,11 +32,10 @@ class Home extends Component {
             <Route path = "/work-experience/website" component = {Website}/>
             <Route exact path = "/extra-curriculars" component = {Extracurriculars}/>
             <Route exact path = "/extra-curriculars/wie" component = {WIE}/>
+            <Route exact path = "/extra-curriculars/robotics" component = {Robotics}/>
     </Container>
     </HashRouter>
 )}  
 }
     
 export default Home
-
-//Font: 200, 300, 400, 600, 700, 900
