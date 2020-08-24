@@ -44,6 +44,17 @@
     padding-bottom: 9px;
 }
 
+.tab {
+    width: 186.25px;
+    height: 40px;
+    background-color: #4a4c51;
+    border: none;
+    color: #90a1d8;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+}
+
 .body{
     width: 186.25px;
     height: 40px;
