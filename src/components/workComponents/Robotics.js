@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import {Container, Col, Row, Button} from 'react-bootstrap'
 import '../../styles/dashboard.css';
 import '../../styles/utilites.css';
+import '../../styles/skills.css';
 
 export class Robotics extends Component {
     render() {
@@ -17,6 +18,11 @@ export class Robotics extends Component {
             <p className = "description4">&bull; Managed $40,000 yearly operating budget through online accounting system to conduct annual financial analysis to establish organizational goals, sustainability plans and risk mitigation strategies</p>
             <p className = "description4">&bull; Organized international outreach campaign with free STEM camps for 700 youth by partnering with Yamana Gold and conducted 5 service trips to India facilitating education in rural schools</p>
             <p className = "description4">&bull; Sole Canadian wnner of 2017 FRC Deans List Award (20 out of 138,000+) for technical expertise and advocacy for STEM education in community</p>
+            <p className = "description4">&bull; Became an ambassador for FIRST Robotics Canada by speaking to corporate sponsors at Synnex Canada and Annual Golf Tournaments with 1000+ attendees</p>
+            <p className = "description4">Please click on each of the tabs to view booklets I designed that provide more information on each of my outreach campaigns and an interview on my award win.</p>
+            <Row>
+            <Col className = "square subheading"><p className = "pheading">FRONT END</p><Col className = "secondsquare subheading"><p className = "pheading">BACK END</p><Col className = "thirdsquare subheading"><p className = "pheading">FULL STACK</p><Col className = "fourthsquare subheading"><p className = "pheading">OTHER TOOLS</p></Col></Col></Col></Col>
+            </Row>
             </Col>
             </Container>
         )
