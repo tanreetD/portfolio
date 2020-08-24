@@ -13,6 +13,7 @@ import Ivey from '../components/workComponents/Ivey'
 import Game from '../components/workComponents/Game'
 import WIE from '../components/workComponents/WIE'
 import MobileApp from '../components/workComponents/MobileApp'
+import Website from '../components/workComponents/Website'
 
 class Home extends Component {
     render() {
@@ -27,6 +28,7 @@ class Home extends Component {
             <Route path = "/work-experience/ivey" component = {Ivey}/>
             <Route path = "/work-experience/game" component = {Game}/>
             <Route path = "/work-experience/mobile-app" component = {MobileApp}/>
+            <Route path = "/work-experience/website" component = {Website}/>
             <Route exact path = "/extra-curriculars" component = {Extracurriculars}/>
             <Route exact path = "/extra-curriculars/wie" component = {WIE}/>
     </Container>

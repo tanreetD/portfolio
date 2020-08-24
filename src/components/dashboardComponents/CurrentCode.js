@@ -33,10 +33,10 @@ export class CurrentCode extends Component {
             <Row>Mobile Development Project</Row><Row>Present</Row>
             <Row className = "row-standard"><span className = "dotorange">&#x25CF;</span> Swift &nbsp;&nbsp;</Row>
             <Row className = "label"><img className = "companylogo" src="images/robotlogo.png" alt=""></img></Row></Button></NavLink>
-            <Button className = "cardtwo"><Row className = "company">PERSONAL WEBSITE</Row>
+            <NavLink to = "/work-experience/website"><Button className = "cardtwo"><Row className = "company">PERSONAL WEBSITE</Row>
             <Row>Web Development Project</Row><Row>Summer 2020</Row>
-            <Row className = "row-standard"><span className = "dotyellow">&#x25CF;</span> Javascript &nbsp;&nbsp;</Row>
-            <Row className = "label"><img className = "companylogo" src="images/weblogo.png" alt=""></img></Row></Button>
+            <Row className = "row-standard"><span className = "dotred">&#x25CF;</span> HTML &nbsp;&nbsp;</Row>
+            <Row className = "label"><img className = "companylogo" src="images/weblogo.png" alt=""></img></Row></Button></NavLink>
             <NavLink to = "/work-experience/game"><Button className = "cardthree"><Row className = "company">FREDRYCK'S FRONTIER</Row>
             <Row>Game Developemnt Project</Row><Row>Winter 2020</Row>
             <Row className = "row-standard"><span className = "dotgreen">&#x25CF;</span> C# &nbsp;&nbsp;</Row>
