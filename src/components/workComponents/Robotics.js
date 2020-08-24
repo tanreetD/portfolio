@@ -16,6 +16,7 @@ export class Robotics extends Component {
             <p className = "description4">&bull; Increased annual corporate sponsorships by 300% by implementing tiered sponsorship levels and monthly newsletters communications</p>
             <p className = "description4">&bull; Managed $40,000 yearly operating budget through online accounting system to conduct annual financial analysis to establish organizational goals, sustainability plans and risk mitigation strategies</p>
             <p className = "description4">&bull; Organized international outreach campaign with free STEM camps for 700 youth by partnering with Yamana Gold and conducted 5 service trips to India facilitating education in rural schools</p>
+            <p className = "description4">&bull; Sole Canadian wnner of 2017 FRC Deans List Award (20 out of 138,000+) for technical expertise and advocacy for STEM education in community</p>
             </Col>
             </Container>
         )
