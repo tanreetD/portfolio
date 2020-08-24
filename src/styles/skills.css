@@ -50,9 +50,11 @@
     background-color: #4a4c51;
     border: none;
     color: #90a1d8;
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 400;
     text-align: center;
+    font-family: "Source Sans Pro",sans-serif;
+    border-radius: 10px;
 }
 
 .body{
